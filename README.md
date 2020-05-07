@@ -1,2 +1,2 @@
-# sequelizedBurger
-Part two of the previous Burger assignment
+# burger-app
+An application using Node.js, MySQL, Express, Handlebars, and ORM
